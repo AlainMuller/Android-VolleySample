@@ -1,9 +1,11 @@
-package fr.alainmuller.volleysample.app;
+package fr.alainmuller.volleysample.app.ui.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import fr.alainmuller.volleysample.app.R;
 
 
 public class MainActivity extends Activity {
